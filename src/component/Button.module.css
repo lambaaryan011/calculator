@@ -1,0 +1,13 @@
+.calcbtn{
+    width: 25%;
+    font-size: 50px;
+
+}
+.clearbtn{
+    width: 75%;
+   font-size: 50px;
+}
+.clearbtn:hover,.calcbtn:hover{
+    background: rgb(253,29,29);
+    background: linear-gradient(90deg, rgba(253,29,29,1) 29%, rgba(252,163,57,1) 100%);
+}
